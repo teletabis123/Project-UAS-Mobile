@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon May 06 03:25:43 ICT 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Project\\ProjectUAS_14026\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+0.path=credential.db
+0.set=ASSET
+count=1
