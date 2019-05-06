@@ -35,6 +35,7 @@ public class DBAdapter extends SQLiteOpenHelper {
     }
 
     public SQLiteDatabase openDatabase(){
+        Log.d(this.getClass().toString(), "openDatabase()");
         String path = DB_PATH + DB_NAME;
         if(db == null){
             createDatabase(path);
